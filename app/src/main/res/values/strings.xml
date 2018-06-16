@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google AdMob Integration</string>
+
+    <!-- AdMob ad unit id -->
+    <string name="banner_footer">ca-app-pub-5717827144758520/8297887893</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-5717827144758520/3588486695</string>
+</resources>
